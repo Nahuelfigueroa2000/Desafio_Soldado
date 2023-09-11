@@ -22,8 +22,12 @@ La interfaz de consola proporciona instrucciones claras para las interacciones.
 
 #Ejecución del ejercicio:
 
-Clona este repositorio en tu máquina local.
-Abra el proyecto en Visual Studio o su entorno de desarrollo C# preferido.
-Compila y ejecuta el proyecto.
-Siga las instrucciones en la consola para interactuar con el soldado y su arma.
+1-Clona este repositorio en tu máquina local.
+
+2-Abra el proyecto en Visual Studio o su entorno de desarrollo C# preferido.
+
+3-Compila y ejecuta el proyecto.
+
+4-Siga las instrucciones en la consola para interactuar con el soldado y su arma.
+
 ¡Diviértete explorando las acciones!
